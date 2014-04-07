@@ -1,0 +1,13 @@
+CPAN_AUTHOR=ruz
+ORIG_PN="GDGraph"
+inherit perl
+
+NAME="perl-GD-Graph"
+VERSION=1.48
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl graph plotting module"
+DESCRIPTION="This is GDGraph, a package to generate charts, using Lincoln
+Stein's GD module."
+
+ARCH=noarch
