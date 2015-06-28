@@ -3,7 +3,7 @@ ORIG_PN="GDGraph"
 inherit perl
 
 NAME="perl-GD-Graph"
-VERSION=1.48
+VERSION=1.49
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl graph plotting module"
